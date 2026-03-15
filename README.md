@@ -11,6 +11,8 @@ edit*
 i am so sorry but the step file is too big for git i have provided this dropbox link instead to view the files i still have the obj and stl files for both the models.
 STEP FILE LINK! : {https://www.dropbox.com/scl/fo/5a8y4ja5gzko9gjgup22n/AL07_JO_Z620Ef6J4IukiO8?rlkey=nrhe427lqlk3c0s6twcmdkp5x&st=qsvfkxlt&dl=0}
 
+it this does not work or there is some other problem please feel free to contact me through my instagram: not.akido
+
 
 ![circuit](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/c91bc2881f12e41c95b255bdafefc2a1f986017d/circuit.png)
 ![project phase 1](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/e06aa1c1d62c04b774947339d1f7cb88fb7af60c/20260314_015351.jpg)
@@ -19,5 +21,6 @@ STEP FILE LINK! : {https://www.dropbox.com/scl/fo/5a8y4ja5gzko9gjgup22n/AL07_JO_
 ![project phase 4](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/d6bd18f97534c00210b53b31e18bb89e8b986cb1/20260316_001706.jpg)
 ![project phase 5](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/d6bd18f97534c00210b53b31e18bb89e8b986cb1/20260316_001706.jpg)
 ![project phase 6](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/d6bd18f97534c00210b53b31e18bb89e8b986cb1/20260315_210009.jpg)
+![project phase 7](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/0c10dc7a54fd31970667883c17b37ebb35aaa434/engine.png)
 
 
