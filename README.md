@@ -23,4 +23,15 @@ it this does not work or there is some other problem please feel free to contact
 ![project phase 6](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/d6bd18f97534c00210b53b31e18bb89e8b986cb1/20260315_210009.jpg)
 ![project phase 7](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/0c10dc7a54fd31970667883c17b37ebb35aaa434/engine.png)
 
+| component  | quantity | price | distributor |
+| --- | --- | --- | --- |
+| arduino due/mega | 1 | $43 | amazon |
+| centrifugal air ducts | 4 | $3 | amazon |
+| anemometer | 1 | $13 | amazon |
+| heavy duty wire connector | 3 | $6 | amazon |
+| FLYSKY F 16x transmitter | 1 | $24 | amazon |
+| servo tester | 1 | $2 | amazon |
+| servo | 3 | $4 | amazon |
+| foam board | 2 | $11 | vortex rc/flight test store |
 
+this is a very bare bones bom so please expect some difference if you build this yourself too!
