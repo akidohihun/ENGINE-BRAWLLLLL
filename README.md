@@ -7,10 +7,8 @@ well my friend called it a glorified fan with lights but i oppose the idea, i ha
 
 i really love propulsion engineering so it was natural that i stumbled upon ion engines but what really made me want to build this were the starships from star trek THEY HAVE SUCH COOL DESIGNS PLUS THE AFTERBURNER OR whatever you would call subsonic blue mirages in space were so cool and as it turns out ion engines emit a faint purple on the ionizing edge and its SO COOL AGHHHH i designed my big engine hunk to look like a nacelle from the uss discovery and enterprise hhahaha
 
-![ion ev disdain]([)](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/cecb754f311867021f6d9192936c19dcb28d3459/engine.png)
-![circuit]([
-](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/330c96ce579ccb813b59b0d943ad684f9158ec44/circuit.png))
 
+![circuit]([ ](https://github.com/akidohihun/ENGINE-BRAWLLLLL/blob/c91bc2881f12e41c95b255bdafefc2a1f986017d/circuit.png))
 
 
 edit**
