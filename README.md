@@ -1,46 +1,149 @@
+<h1 align="center">ION EV</h1>
 
-# ION EV
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-ION%20EV-6C63FF?style=for-the-badge" alt="Project">
+  <img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-orange?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/BUILD-DIY-blue?style=for-the-badge" alt="Build">
+</p>
 
-![Project](https://img.shields.io/badge/Project-Ion%20Propulsion-7B68EE?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build-DIY-blue?style=for-the-badge)
+<p align="center">
+  <b>A DIY electrohydrodynamic propulsion experiment.</b>
+  <br>
+  Exploring ion propulsion, airflow design, and unconventional engine architecture.
+</p>
 
-> A DIY electrohydrodynamic propulsion experiment inspired by unconventional aerospace engine design.
+<p align="center">
+  <a href="https://youtu.be/s0be5zCcTM0">Project Video</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://canva.link/vbg03uz2dkxmrlg">Project Presentation</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.dropbox.com/scl/fo/5a8y4ja5gzko9gjgup22n/AL07_JO_Z620Ef6J4IukiO8?rlkey=nrhe427lqlk3c0s6twcmdkp5x&st=qsvfkxlt&dl=0">STEP Files</a>
+</p>
+
+---
 
 ## About
 
-**ION EV** is an experimental ion propulsion system built from scratch to explore whether electrohydrodynamic propulsion can produce measurable thrust without conventional moving parts.
+**ION EV** is an experimental ion propulsion system designed and built from scratch to investigate electrohydrodynamic propulsion and unconventional engine architecture.
 
-The design takes inspiration from aerospike engines and spacecraft propulsion, combining a custom funnel-shaped airflow system with high-voltage ionization to generate ionic wind.
+Unlike conventional mechanical propulsion systems, the engine uses an electric field to ionize and accelerate air, generating **ionic wind and measurable thrust without conventional rotating components**.
 
-The goal isn't to build a practical aircraft engine. It is to experiment, measure, iterate, and understand how far this concept can be pushed.
+The design combines a custom ionization system with a **funnel-shaped airflow architecture**, developed specifically to investigate how geometry can influence the resulting airflow and propulsion performance.
+
+The project is primarily an engineering experiment: build, measure, redesign, and repeat.
 
 > No propeller. No turbine. Just electricity, air, and a ridiculous amount of engineering.
 
+---
+
 ## How It Works
 
-The engine ionizes surrounding air and accelerates the charged particles through an electric field. The resulting movement of ions transfers momentum to the surrounding air, producing electrohydrodynamic thrust.
+ION EV operates using the principles of **electrohydrodynamic propulsion**.
 
-The project focuses particularly on the custom **funnel airflow system**, which is designed to guide and concentrate the generated airflow.
+An electric field ionizes molecules in the surrounding air. These charged particles are then accelerated through the electric field, transferring momentum to neutral air molecules as they move.
 
-## What's Included
+This creates a directed flow of air known as **ionic wind**, which can produce measurable thrust.
 
-* Custom engine design
+The project focuses heavily on the geometry surrounding this process, particularly the custom funnel system intended to guide and concentrate the generated airflow.
+
+---
+
+## Project Gallery
+
+<p align="center">
+  <img src="images/engine.jpg" alt="ION EV final engine" width="700">
+</p>
+
+<p align="center">
+  <i>The completed ION EV experimental propulsion system.</i>
+</p>
+
+### Construction
+
+<p align="center">
+  <img src="images/build.jpg" alt="ION EV construction" width="700">
+</p>
+
+<p align="center">
+  <i>Construction and assembly of the propulsion system.</i>
+</p>
+
+### Testing
+
+<p align="center">
+  <img src="images/testing.jpg" alt="ION EV testing" width="700">
+</p>
+
+<p align="center">
+  <i>Experimental testing and airflow measurement.</i>
+</p>
+
+### CAD Development
+
+<p align="center">
+  <img src="images/cad.jpg" alt="ION EV CAD model" width="700">
+</p>
+
+<p align="center">
+  <i>CAD development of the engine and custom funnel system.</i>
+</p>
+
+---
+
+## Project Video
+
+<p align="center">
+  <a href="https://youtu.be/s0be5zCcTM0">
+    <img src="https://img.youtube.com/vi/s0be5zCcTM0/maxresdefault.jpg" alt="ION EV Project Video" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <b><a href="https://youtu.be/s0be5zCcTM0">Watch the ION EV project video</a></b>
+</p>
+
+---
+
+## Project Documentation
+
+A detailed visual presentation covering the project's design, development, and experimentation is available here.
+
+<p align="center">
+  <a href="https://canva.link/vbg03uz2dkxmrlg">
+    <img src="https://img.shields.io/badge/VIEW-PROJECT%20PRESENTATION-00C4CC?style=for-the-badge" alt="View Project Presentation">
+  </a>
+</p>
+
+---
+
+## What Is Included
+
+* Custom propulsion system design
+* Custom funnel airflow system
 * 3D CAD models
-* Experimental funnel airflow system
 * High-voltage ionization system
-* Thrust and airflow measurement setup
+* Airflow measurement setup
+* Thrust experimentation
 * Electronics and control system
 * STL and OBJ model files
-* Experimental documentation
+* Project documentation
+* Experimental results and observations
+
+---
 
 ## CAD Files
 
 The STEP files are too large to store directly in this repository.
 
-**[Download the STEP files from Dropbox](https://www.dropbox.com/scl/fo/5a8y4ja5gzko9gjgup22n/AL07_JO_Z620Ef6J4IukiO8?rlkey=nrhe427lqlk3c0s6twcmdkp5x&st=qsvfkxlt&dl=0)**
+<p align="center">
+  <a href="https://www.dropbox.com/scl/fo/5a8y4ja5gzko9gjgup22n/AL07_JO_Z620Ef6J4IukiO8?rlkey=nrhe427lqlk3c0s6twcmdkp5x&st=qsvfkxlt&dl=0">
+    <img src="https://img.shields.io/badge/DOWNLOAD-STEP%20FILES-2D6CDF?style=for-the-badge" alt="Download STEP Files">
+  </a>
+</p>
 
 STL and OBJ versions of the models are included in the repository where possible.
+
+---
 
 ## Bill of Materials
 
@@ -57,39 +160,60 @@ STL and OBJ versions of the models are included in the repository where possible
 
 > This is a basic reference BOM. Components, prices, and suppliers may differ depending on availability and the exact version being built.
 
+---
+
 ## Project Goals
 
-The main objective is to investigate:
+The main objective of ION EV is to investigate the engineering possibilities and limitations of electrohydrodynamic propulsion.
 
-* How much thrust can be generated?
-* How does the funnel geometry affect performance?
-* How efficiently can the airflow system be designed?
+### Questions Being Explored
+
+* How much measurable thrust can be generated?
+* How does funnel geometry affect airflow?
+* How efficiently can the generated ionic wind be directed?
 * Can the system be made lighter and more efficient?
-* What are the practical limitations of electrohydrodynamic propulsion?
+* What are the practical limitations of this type of propulsion?
+* Which design changes produce measurable improvements?
 
-This is an **experimental propulsion project**, not a finished aircraft engine.
-
-## Design Inspiration
-
-A lot of the design inspiration comes from spacecraft and unconventional propulsion systems, particularly the visual language of futuristic spacecraft from *Star Trek*.
-
-The outer design was deliberately influenced by the warp nacelles of the **USS Discovery** and **USS Enterprise**.
-
-Because apparently an experimental ion engine wasn't nerdy enough already.
-
-## Safety
-
-This project involves high-voltage electrical systems. High voltage can cause serious injury or death.
-
-The information in this repository is provided for documentation and experimentation. Anyone attempting to reproduce the project should understand the risks involved and use appropriate electrical safety practices.
-
-## Contact
-
-If you find an issue with the files, have questions about the project, or want to discuss the design:
-
-**Instagram:** [@not.akido](https://instagram.com/not.akido)
+This project is an **experimental propulsion platform**, not a finished aircraft engine.
 
 ---
 
-*Built to experiment. Built to fail. Built to learn.*
+## Design Inspiration
+
+ION EV draws inspiration from both real aerospace engineering and science-fiction spacecraft.
+
+The aerodynamic architecture takes inspiration from unconventional engine designs such as **aerospike engines**, while the external form was heavily influenced by the spacecraft designs of *Star Trek*.
+
+In particular, the engine's nacelle-like geometry was inspired by the **USS Discovery** and **USS Enterprise**.
+
+The faint glow produced around the ionizing edge was also one of the reasons I became fascinated with ion propulsion in the first place.
+
+If an engine is going to look futuristic, it might as well actually be futuristic.
+
+---
+
+## Safety
+
+This project involves **high-voltage electrical systems**.
+
+High voltage can cause serious injury or death. The experimental nature of this project means that appropriate electrical safety precautions, insulation, isolation, and controlled testing are essential.
+
+This repository documents the engineering and development of the project and should not be treated as a guarantee that the design is safe to reproduce without appropriate knowledge and precautions.
+
+---
+
+## Contact
+
+<p align="center">
+  <b>Instagram</b>
+  <br>
+  <a href="https://instagram.com/not.akido">@not.akido</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Built to experiment. Built to fail. Built to learn.</i>
+</p>
 
