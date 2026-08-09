@@ -1,4 +1,6 @@
-<h1 align="center">ION EV</h1>
+<p align="center">
+  <img src="ionev2.png" alt="ION EV Logo" width="500">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PROJECT-ION%20EV-6C63FF?style=for-the-badge" alt="Project">
@@ -51,7 +53,7 @@ The project focuses heavily on the geometry surrounding this process, particular
 ## Project Gallery
 
 <p align="center">
-  <img src="images/engine.jpg" alt="ION EV final engine" width="700">
+  <img src="image_2026-08-09_162145746.png" alt="ION EV final engine" width="700">
 </p>
 
 <p align="center">
@@ -61,7 +63,7 @@ The project focuses heavily on the geometry surrounding this process, particular
 ### Construction
 
 <p align="center">
-  <img src="images/build.jpg" alt="ION EV construction" width="700">
+  <img src="20260314_015351.jpg" alt="ION EV construction" width="700">
 </p>
 
 <p align="center">
@@ -71,7 +73,7 @@ The project focuses heavily on the geometry surrounding this process, particular
 ### Testing
 
 <p align="center">
-  <img src="images/testing.jpg" alt="ION EV testing" width="700">
+  <img src="20260314_015341.jpg" alt="ION EV testing" width="700">
 </p>
 
 <p align="center">
@@ -81,7 +83,7 @@ The project focuses heavily on the geometry surrounding this process, particular
 ### CAD Development
 
 <p align="center">
-  <img src="images/cad.jpg" alt="ION EV CAD model" width="700">
+  <img src="20260316_001706.jpg" alt="ION EV CAD model" width="700">
 </p>
 
 <p align="center">
@@ -94,7 +96,7 @@ The project focuses heavily on the geometry surrounding this process, particular
 
 <p align="center">
   <a href="https://youtu.be/s0be5zCcTM0">
-    <img src="https://img.youtube.com/vi/s0be5zCcTM0/maxresdefault.jpg" alt="ION EV Project Video" width="700">
+    <img src="image_2026-08-09_162145746.png" alt="ION EV Project Video" width="700">
   </a>
 </p>
 
@@ -118,16 +120,16 @@ A detailed visual presentation covering the project's design, development, and e
 
 ## What Is Included
 
-* Custom propulsion system design
-* Custom funnel airflow system
-* 3D CAD models
-* High-voltage ionization system
-* Airflow measurement setup
-* Thrust experimentation
-* Electronics and control system
-* STL and OBJ model files
-* Project documentation
-* Experimental results and observations
+- Custom propulsion system design
+- Custom funnel airflow system
+- 3D CAD models
+- High-voltage ionization system
+- Airflow measurement setup
+- Thrust experimentation
+- Electronics and control system
+- STL and OBJ model files
+- Project documentation
+- Experimental results and observations
 
 ---
 
@@ -147,16 +149,16 @@ STL and OBJ versions of the models are included in the repository where possible
 
 ## Bill of Materials
 
-| Component                  | Quantity | Approx. Price | Distributor                   |
-| -------------------------- | -------: | ------------: | ----------------------------- |
-| Arduino Due / Mega         |        1 |           $43 | Amazon                        |
-| Centrifugal Air Ducts      |        4 |            $3 | Amazon                        |
-| Anemometer                 |        1 |           $13 | Amazon                        |
-| Heavy-Duty Wire Connectors |        3 |            $6 | Amazon                        |
-| FLYSKY F16X Transmitter    |        1 |           $24 | Amazon                        |
-| Servo Tester               |        1 |            $2 | Amazon                        |
-| Servo                      |        3 |            $4 | Amazon                        |
-| Foam Board                 |        2 |           $11 | Vortex RC / Flight Test Store |
+| Component | Quantity | Approx. Price | Distributor |
+|---|---:|---:|---|
+| Arduino Due / Mega | 1 | $43 | Amazon |
+| Centrifugal Air Ducts | 4 | $3 | Amazon |
+| Anemometer | 1 | $13 | Amazon |
+| Heavy-Duty Wire Connectors | 3 | $6 | Amazon |
+| FLYSKY F16X Transmitter | 1 | $24 | Amazon |
+| Servo Tester | 1 | $2 | Amazon |
+| Servo | 3 | $4 | Amazon |
+| Foam Board | 2 | $11 | Vortex RC / Flight Test Store |
 
 > This is a basic reference BOM. Components, prices, and suppliers may differ depending on availability and the exact version being built.
 
@@ -168,12 +170,12 @@ The main objective of ION EV is to investigate the engineering possibilities and
 
 ### Questions Being Explored
 
-* How much measurable thrust can be generated?
-* How does funnel geometry affect airflow?
-* How efficiently can the generated ionic wind be directed?
-* Can the system be made lighter and more efficient?
-* What are the practical limitations of this type of propulsion?
-* Which design changes produce measurable improvements?
+- How much measurable thrust can be generated?
+- How does funnel geometry affect airflow?
+- How efficiently can the generated ionic wind be directed?
+- Can the system be made lighter and more efficient?
+- What are the practical limitations of this type of propulsion?
+- Which design changes produce measurable improvements?
 
 This project is an **experimental propulsion platform**, not a finished aircraft engine.
 
@@ -216,4 +218,3 @@ This repository documents the engineering and development of the project and sho
 <p align="center">
   <i>Built to experiment. Built to fail. Built to learn.</i>
 </p>
-
